@@ -1,0 +1,6 @@
+.venv/
+datos_16bit/
+vista_amplia/
+resultados/
+__pycache__/
+.DS_Store
